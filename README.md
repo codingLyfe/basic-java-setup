@@ -1,8 +1,12 @@
-# basic-java-setup
+# Serverless Org Chart
 
 Learning Java and integrating with AWS. 
 
+## Description
+
 Attempting to make a serverless project.
+
+### What I'll Use
 
 Amazon DynamoDB
 Amazon API Gateway
